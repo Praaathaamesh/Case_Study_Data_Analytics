@@ -1,8 +1,5 @@
 # Case_Study_Data_Analytics
 #### *Data analysis case study of business performance using a Python programming approach.* ####
-Here’s a simple README file for a business data analytics project using Python and its libraries:
-
----
 
 # Business Data Analytics Project
 
